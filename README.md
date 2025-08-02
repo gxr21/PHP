@@ -14,3 +14,6 @@ A beginner-friendly PHP-based project for learning and understanding the basics 
 - HTML/CSS
 
 ## 📦 Installation
+git clone https://github.com/gxr21/.git
+cd 
+npm install
